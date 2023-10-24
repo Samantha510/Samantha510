@@ -4,7 +4,7 @@
     width="200"
   />
   <h1 align="center">Hi👋, I'm Samantha</h1>
-  <h3 align="center">Passionate about web development, especially Frontend.</h3>
+  <h3 align="center">Passionate about web development.</h3>
 </div>
 <h3 align="left">📫 How to reach me:</h3>
 <div id="social" align="left">
