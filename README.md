@@ -62,11 +62,12 @@
       width="40"
       height="40"
     />
-   
   </div>
 </div>
 
-
+---
+### My Stats:
+<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Samantha510&theme=radical&mode=weekly" alt="GitHub Streak" /></a></div>
 <!--
 ### About me:
 - 🔭 I’m currently working on ...
